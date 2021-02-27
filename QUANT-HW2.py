@@ -50,3 +50,4 @@ print('std of samplels N is: ' + str(sigma_x))
 x_crit = 193.6
 z_score = (x_crit - mu_x)/sigma_x
 print('z_score is: ' + str(z_score))
+# z-score is .9767 == 98%
