@@ -38,5 +38,5 @@ print('sigma_phat: {}'.format(sigma_phat))
 
 z_hat = (p_hat - mu)/sigma_phat 
 print('z_hat: {}'.format(z_hat))
-
+    
 # P is 19.22 % which is > 5 and therefore there is not enough evidence to reject H0
